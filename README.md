@@ -22,4 +22,6 @@ yarn build
 yarn start
 ```
 
+docker-compose up skillbox
+
 Go to http://localhost:3000
